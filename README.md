@@ -1,4 +1,4 @@
-# TEAM NAME PRESENTS: CONNECT 4!
+# TEAM DJ PRESENTS: CONNECT 4!
 
 # Connect 4 is a game where 2 players try to defeat each other by stacking their chosen symbols (O for player 1 and X for player 2).
 # The game platform is a seven-column, six-row suspended grid.
