@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jansen\\source\\repos\\Connect_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B01D251-9852-40D4-909E-190909E05565}|Connect_4\\Connect_4.csproj|c:\\users\\jansen\\source\\repos\\connect_4\\connect_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B01D251-9852-40D4-909E-190909E05565}|Connect_4\\Connect_4.csproj|solutionrelative:connect_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jansen\\source\\repos\\Connect_4\\Connect_4\\Program.cs",
+              "RelativeDocumentMoniker": "Connect_4\\Program.cs",
+              "ToolTip": "C:\\Users\\Jansen\\source\\repos\\Connect_4\\Connect_4\\Program.cs",
+              "RelativeToolTip": "Connect_4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T03:29:40.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
