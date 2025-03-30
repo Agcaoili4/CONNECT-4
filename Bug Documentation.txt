@@ -1,2 +1,5 @@
 * Placed here are the bugs that was found by the team.
 * Always place your name at the end of the sentence.
+
+1.) Main menu was having an infinite loop, was addressed quickly upon decoding - Jansen
+2.) Column choosing isnt working properly. Debugged it by having a test on the main class - Jansen
