@@ -47,7 +47,40 @@ namespace Connect_4
         // Needs to have 7 columns and 7 rows.
         class Board
         {
+            //I added these but feel free to change them - Derek
+            public char [,] gameBoard = new char [7, 7];
 
+            //Don't know if we need this, but will be used to initialize each element of the array with _ to show that they are empty.
+            public void populateBoard()
+            {
+                // 7 =  amount of game board columns
+                for (int i = 0; i < 7; i++)
+                {
+                    for (int j = 0; j < 7; j++)
+                    {
+                        gameBoard[i, j] = '_';
+                        Console.Write(gameBoard[i, j] + " ");
+                    }
+                    Console.WriteLine();
+                }
+            }
+
+            public void placeUserTurnOnBoard (char userSymbol)
+            {
+                // 7 =  amount of game board columns
+                for (int i = 0; i < 7; i++)
+                {
+                    //counting from bottom to top instead of top to bottom
+                    for (int j = 6; j >= 0; j--)
+                    {
+                        //if that index is "empty", replace with user symbol
+                        if (gameBoard[i, j] == '_')
+                        {
+                            gameBoard[i, j] = userSymbol;
+                        }
+                    }
+                }
+            }
         }
 
         // Static void that shows instructions
@@ -81,7 +114,7 @@ namespace Connect_4
                 string choice = Console.ReadLine();
                 if (choice == "1")
                 {
-
+                    
                     return;
 
                 }

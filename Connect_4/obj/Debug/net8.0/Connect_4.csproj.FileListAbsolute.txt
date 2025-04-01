@@ -13,3 +13,18 @@ C:\Users\Jansen\Desktop\Scholasitc folder\Bow Valley\Intro to OOP\Connect_4\Conn
 C:\Users\Jansen\Desktop\Scholasitc folder\Bow Valley\Intro to OOP\Connect_4\Connect_4\obj\Debug\net8.0\Connect_4.pdb
 C:\Users\Jansen\Desktop\Scholasitc folder\Bow Valley\Intro to OOP\Connect_4\Connect_4\obj\Debug\net8.0\Connect_4.genruntimeconfig.cache
 C:\Users\Jansen\Desktop\Scholasitc folder\Bow Valley\Intro to OOP\Connect_4\Connect_4\obj\Debug\net8.0\ref\Connect_4.dll
+C:\Users\Toxic\Source\Repos\CONNECT-4.1\Connect_4\bin\Debug\net8.0\Connect_4.exe
+C:\Users\Toxic\Source\Repos\CONNECT-4.1\Connect_4\bin\Debug\net8.0\Connect_4.deps.json
+C:\Users\Toxic\Source\Repos\CONNECT-4.1\Connect_4\bin\Debug\net8.0\Connect_4.runtimeconfig.json
+C:\Users\Toxic\Source\Repos\CONNECT-4.1\Connect_4\bin\Debug\net8.0\Connect_4.dll
+C:\Users\Toxic\Source\Repos\CONNECT-4.1\Connect_4\bin\Debug\net8.0\Connect_4.pdb
+C:\Users\Toxic\Source\Repos\CONNECT-4.1\Connect_4\obj\Debug\net8.0\Connect_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toxic\Source\Repos\CONNECT-4.1\Connect_4\obj\Debug\net8.0\Connect_4.AssemblyInfoInputs.cache
+C:\Users\Toxic\Source\Repos\CONNECT-4.1\Connect_4\obj\Debug\net8.0\Connect_4.AssemblyInfo.cs
+C:\Users\Toxic\Source\Repos\CONNECT-4.1\Connect_4\obj\Debug\net8.0\Connect_4.csproj.CoreCompileInputs.cache
+C:\Users\Toxic\Source\Repos\CONNECT-4.1\Connect_4\obj\Debug\net8.0\Connect_4.sourcelink.json
+C:\Users\Toxic\Source\Repos\CONNECT-4.1\Connect_4\obj\Debug\net8.0\Connect_4.dll
+C:\Users\Toxic\Source\Repos\CONNECT-4.1\Connect_4\obj\Debug\net8.0\refint\Connect_4.dll
+C:\Users\Toxic\Source\Repos\CONNECT-4.1\Connect_4\obj\Debug\net8.0\Connect_4.pdb
+C:\Users\Toxic\Source\Repos\CONNECT-4.1\Connect_4\obj\Debug\net8.0\Connect_4.genruntimeconfig.cache
+C:\Users\Toxic\Source\Repos\CONNECT-4.1\Connect_4\obj\Debug\net8.0\ref\Connect_4.dll
