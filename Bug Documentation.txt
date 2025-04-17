@@ -1,5 +1,8 @@
 * Placed here are the bugs that was found by the team.
 * Always place your name at the end of the sentence.
 
-1.) Main menu was having an infinite loop, was addressed quickly upon decoding - Jansen
-2.) Column choosing isnt working properly. Debugged it by having a test on the main class - Jansen
+1.) Main menu was having an infinite loop, was addressed quickly upon decoding - Jansen (done)
+2.) Column choosing isnt working properly. Debugged it by having a test on the main class - Jansen (done)
+3.) Player is working fine, but had some problems on the implementation of the board and printBoard - Jansen (done)
+4.) Conditions need to be applied. So far the columns are working properly now and there should be a proper way to handle how the player
+will win - Jansen

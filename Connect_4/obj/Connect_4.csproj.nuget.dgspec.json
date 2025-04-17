@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Toxic\\Source\\Repos\\CONNECT-4.1\\Connect_4\\Connect_4.csproj": {}
+    "C:\\Users\\Jansen\\Desktop\\Scholasitc folder\\Bow Valley\\Intro to OOP\\Connect_4\\Connect_4\\Connect_4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Toxic\\Source\\Repos\\CONNECT-4.1\\Connect_4\\Connect_4.csproj": {
+    "C:\\Users\\Jansen\\Desktop\\Scholasitc folder\\Bow Valley\\Intro to OOP\\Connect_4\\Connect_4\\Connect_4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Toxic\\Source\\Repos\\CONNECT-4.1\\Connect_4\\Connect_4.csproj",
+        "projectUniqueName": "C:\\Users\\Jansen\\Desktop\\Scholasitc folder\\Bow Valley\\Intro to OOP\\Connect_4\\Connect_4\\Connect_4.csproj",
         "projectName": "Connect_4",
-        "projectPath": "C:\\Users\\Toxic\\Source\\Repos\\CONNECT-4.1\\Connect_4\\Connect_4.csproj",
-        "packagesPath": "C:\\Users\\Toxic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Toxic\\Source\\Repos\\CONNECT-4.1\\Connect_4\\obj\\",
+        "projectPath": "C:\\Users\\Jansen\\Desktop\\Scholasitc folder\\Bow Valley\\Intro to OOP\\Connect_4\\Connect_4\\Connect_4.csproj",
+        "packagesPath": "C:\\Users\\Jansen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jansen\\Desktop\\Scholasitc folder\\Bow Valley\\Intro to OOP\\Connect_4\\Connect_4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Toxic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jansen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,8 +44,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
