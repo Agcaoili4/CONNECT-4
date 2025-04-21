@@ -5,4 +5,8 @@
 2.) Column choosing isnt working properly. Debugged it by having a test on the main class - Jansen (done)
 3.) Player is working fine, but had some problems on the implementation of the board and printBoard - Jansen (done)
 4.) Conditions need to be applied. So far the columns are working properly now and there should be a proper way to handle how the player
-will win - Jansen
+will win - Jansen (done)
+5.) Ai won't work properly, wont put anything and just gives back the turn to player  - Jansen (done)
+6.) Ai working, but still had problems since it still choose to put the item on a full column - Jansen (done)
+7.) Need to fix looping events such as when the player is done playing, they will be given an option to play again
+via directing to Start method - Jansen (done)

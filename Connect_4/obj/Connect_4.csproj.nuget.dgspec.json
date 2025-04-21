@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jansen\\Desktop\\Scholasitc folder\\Bow Valley\\Intro to OOP\\Connect_4\\Connect_4\\Connect_4.csproj": {}
+    "C:\\Users\\Jansen\\Desktop\\CONNECT-4\\Connect_4\\Connect_4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jansen\\Desktop\\Scholasitc folder\\Bow Valley\\Intro to OOP\\Connect_4\\Connect_4\\Connect_4.csproj": {
+    "C:\\Users\\Jansen\\Desktop\\CONNECT-4\\Connect_4\\Connect_4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jansen\\Desktop\\Scholasitc folder\\Bow Valley\\Intro to OOP\\Connect_4\\Connect_4\\Connect_4.csproj",
+        "projectUniqueName": "C:\\Users\\Jansen\\Desktop\\CONNECT-4\\Connect_4\\Connect_4.csproj",
         "projectName": "Connect_4",
-        "projectPath": "C:\\Users\\Jansen\\Desktop\\Scholasitc folder\\Bow Valley\\Intro to OOP\\Connect_4\\Connect_4\\Connect_4.csproj",
+        "projectPath": "C:\\Users\\Jansen\\Desktop\\CONNECT-4\\Connect_4\\Connect_4.csproj",
         "packagesPath": "C:\\Users\\Jansen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jansen\\Desktop\\Scholasitc folder\\Bow Valley\\Intro to OOP\\Connect_4\\Connect_4\\obj\\",
+        "outputPath": "C:\\Users\\Jansen\\Desktop\\CONNECT-4\\Connect_4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
